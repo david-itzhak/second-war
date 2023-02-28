@@ -12,8 +12,8 @@
     <name>second-war</name>
 
     <scm>
-        <connection>scm:git:git@github.com:david-itzhak/second-war2.git</connection>
-        <developerConnection>scm:git:git@github.com:david-itzhak/second-war2.git</developerConnection>
+        <connection>scm:git:https://github.com/david-itzhak/second-war</connection>
+        <developerConnection>scm:git:https://github.com/david-itzhak/second-war</developerConnection>
         <url>https://github.com/david-itzhak/second-war2</url>
     </scm>
     <modules>
