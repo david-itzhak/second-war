@@ -12,9 +12,9 @@
     <name>second-war</name>
 
     <scm>
-        <connection>scm:git:git@github.com:david-itzhak/apache-maven-init.git</connection>
-        <developerConnection>scm:git:git@github.com:david-itzhak/apache-maven-init.git</developerConnection>
-        <url>https://github.com/david-itzhak/apache-maven-init</url>
+        <connection>scm:git:git@github.com:david-itzhak/second-war2.git</connection>
+        <developerConnection>scm:git:git@github.com:david-itzhak/second-war2.git</developerConnection>
+        <url>https://github.com/david-itzhak/second-war2</url>
     </scm>
     <modules>
         <module>database</module>
